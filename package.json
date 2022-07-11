@@ -1,0 +1,27 @@
+{
+  "name": "js-sdk-event-bus",
+  "version": "1.0.0",
+  "description": "Micro event bus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-sdk/event-bus.git"
+  },
+  "keywords": [
+    "event-bus",
+    "events"
+  ],
+  "author": "Bruno Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-sdk/event-bus/issues"
+  },
+  "homepage": "https://github.com/js-sdk/event-bus#readme",
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "jest-environment-jsdom": "^28.1.2"
+  }
+}
